@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
    npm install
 3. Get the API:
    ```bash
-   api
+   [api](https://github.com/auadmendes/proffy-api/tree/main)
 3. Run your project:
    ```bash
    npm run dev
